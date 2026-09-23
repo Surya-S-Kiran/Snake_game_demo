@@ -24,3 +24,15 @@ body {
     grid-template-rows: repeat(20, 1fr);
     border: 2px solid black;
 }
+
+.cell {
+    border: 1px solid #ddd;
+}
+
+.snake {
+    background: green;
+}
+
+.head {
+    background: darkgreen;
+}
